@@ -1,3 +1,3 @@
 my first java code
 it( look so good)
-	sytem show(welcome to the world of devops)
+	sytem show(we are gradually equiping ourselves with devops)
